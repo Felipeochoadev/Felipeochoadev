@@ -50,13 +50,19 @@
   </a>
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.putty.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" alt="putty" width="40" height="40"/> 
+  </a>
+  <a href="https://filezilla-project.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png" alt="filezilla" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="visual studio code" width="40" height="40"/> 
+  </a>
 </p>
 
 #PENDIENTE POR AGREGAR
-- putty
-- fillezilla
-- visual studio code
 - windows terminal
 - Excel
 - stripe
