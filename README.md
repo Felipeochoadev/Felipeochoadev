@@ -59,4 +59,7 @@
 - visual studio code
 - windows terminal
 - Excel
+- stripe
+- openai
+- twilio
 
