@@ -70,10 +70,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"/> 
   </a>
   <a href="https://www.twilio.com/es-mx">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/512px-Twilio-logo-red.svg.png" alt="twilio" width="40" height="40"/> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/512px-Twilio-logo-red.svg.png](https://cdn.worldvectorlogo.com/logos/twilio.svg)" alt="twilio" width="40" height="40"/> 
   </a>
   <a href="https://openai.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/> 
   </a>
 </p>
 
