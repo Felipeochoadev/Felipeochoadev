@@ -60,11 +60,24 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="visual studio code" width="40" height="40"/> 
   </a>
+  <a href="https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/es-co/microsoft-365/excel">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/> 
+  </a>
+  <a href="https://stripe.com/es">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"/> 
+  </a>
+  <a href="https://www.twilio.com/es-mx">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/512px-Twilio-logo-red.svg.png" alt="twilio" width="40" height="40"/> 
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/> 
+  </a>
 </p>
 
 #PENDIENTE POR AGREGAR
-- windows terminal
-- Excel
 - stripe
 - openai
 - twilio
