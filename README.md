@@ -9,6 +9,9 @@
 
 ![image](https://github.com/user-attachments/assets/cf9243c3-002c-4ef8-8c0b-8e2e35fb176a)
 
+soy una persona dedicada comprometida, soy apasionado del desarrollo , mi dedicacion se refleja en cada linea de codigo que escribo.
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/Felipeochoadev">
