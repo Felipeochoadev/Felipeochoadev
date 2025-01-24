@@ -67,13 +67,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/> 
   </a>
   <a href="https://stripe.com/es">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/stripe-2.svg" alt="stripe" width="40" height="40"/> 
   </a>
   <a href="https://www.twilio.com/es-mx">
     <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="twilio" width="40" height="40"/> 
   </a>
   <a href="https://openai.com/">
-    <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg" alt="openai" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" alt="openai" width="40" height="40"/> 
   </a>
 </p>
 
