@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
     Hola, soy 
-    <a href="https://felipeochoa.co" target="_blank">
+    <a href="https://felipeochoa.co">
       Felipeochoadev
     </a> 👋
   </h1>
