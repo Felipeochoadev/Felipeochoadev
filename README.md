@@ -77,8 +77,3 @@
   </a>
 </p>
 
-#PENDIENTE POR AGREGAR
-- stripe
-- openai
-- twilio
-
