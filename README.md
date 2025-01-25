@@ -61,7 +61,7 @@ soy una persona dedicada y comprometida soy apasionado del desarrollo, mi dedica
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png" alt="filezilla" width="40" height="40"/> 
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://code.visualstudio.com/assets/images/code-stable-white.png" alt="visual studio code" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual studio code" width="40" height="40"/> 
   </a>
   <a href="https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> 
