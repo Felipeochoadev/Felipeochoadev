@@ -7,7 +7,7 @@
   </h1>
 </div>
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/cf9243c3-002c-4ef8-8c0b-8e2e35fb176a)
+  <img height="180em" src="https://github.com/user-attachments/assets/cf9243c3-002c-4ef8-8c0b-8e2e35fb176a"/>
 </p>
 
 soy una persona dedicada y comprometida soy apasionado del desarrollo, mi dedicacion se refleja en cada linea de codigo que escribo.
